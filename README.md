@@ -14,3 +14,5 @@ Some column directions
 
 MySQL
 <a id="mysql"></a>
+Redis
+<a id="redis"></a>
