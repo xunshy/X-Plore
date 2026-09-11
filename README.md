@@ -10,7 +10,7 @@ Some column directions
 | --------------------------------------------------- | ------------------------------------------------- | --------------------------------------------|
 | [MySQL](#mysql)                 | [Redis](#redis)            | [Docker](#docker) |  
 
-
+|[前端ts，js](#frontend)|||
 
 MySQL
 <a id="mysql"></a>
@@ -20,3 +20,7 @@ Redis
 
 Docker
 <a id="docker"></a>
+
+前端ts，js
+<a id="frontend"></a>
+-[DNS解析/浏览器输入URL后]()
