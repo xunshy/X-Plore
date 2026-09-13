@@ -17,6 +17,7 @@ MySQL
 - [#2表约束（2）｜唯一键｜外键｜简易商店数据库](https://blog.csdn.net/2403_88152589/article/details/165245541)
 - [MySQL#2表约束(1) | NULL | default | zerofill | 主键 | 自增长](https://blog.csdn.net/2403_88152589/article/details/165244510)
 - [MySQL 数据库与表操作笔记](https://blog.csdn.net/2403_88152589/article/details/165241441)
+
 Redis
 <a id="redis"></a>
 
