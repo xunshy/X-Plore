@@ -8,9 +8,9 @@ Some column directions
 
 | 专栏                                                | 专栏                                              | 专栏                                         |
 | --------------------------------------------------- | ------------------------------------------------- | --------------------------------------------|
-| [MySQL](#mysql)                 | [Redis](#redis)            | [Docker](#docker) |  
+| [MySQL](#mysql)                 | [Redis](#redis)            | [Docker](#docker)                             |  
 
-|[前端ts，js](#frontend)|||
+|[前端ts，js](#frontend)|          [Git Ci/CD(#git ci/cd)]         | C++(#c++)                         |
 
 MySQL
 <a id="mysql"></a>
@@ -34,3 +34,10 @@ Docker
 <a id="frontend"></a>
 
 -[DNS解析/浏览器输入URL后](https://blog.csdn.net/2403_88152589/article/details/165009446)
+
+Git CI/CD
+<a id="git ci/cd"></a>
+
+C++
+<a id="c++"></a>
+
