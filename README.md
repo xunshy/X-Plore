@@ -36,7 +36,7 @@ Docker
 前端ts，js
 <a id="frontend"></a>
 
--[DNS解析/浏览器输入URL后](https://blog.csdn.net/2403_88152589/article/details/165009446)
+- [DNS解析/浏览器输入URL后](https://blog.csdn.net/2403_88152589/article/details/165009446)
 
 Git CI/CD
 <a id="git ci/cd"></a>
@@ -46,9 +46,9 @@ C++
 
 Shell
 <a id="shell"></a>
--[#1 Shell（1）｜Shell、Python、Lua｜概述｜调用｜语法｜变量](https://blog.csdn.net/2403_88152589/article/details/166142881)
+- [#1 Shell（1）｜Shell、Python、Lua｜概述｜调用｜语法｜变量](https://blog.csdn.net/2403_88152589/article/details/166142881)
 
 Linux网络
 <a id="linux网络"></a>
--[#2 Linux｜网络协议｜序列化与反序列化｜TCP Calculator 实战](https://blog.csdn.net/2403_88152589/article/details/166142851)
--[#1 Linux｜从线程到网络｜单例模式｜饿汉与懒汉｜自旋锁｜读写锁｜网络基础](https://blog.csdn.net/2403_88152589/article/details/166016119)
+- [#2 Linux｜网络协议｜序列化与反序列化｜TCP Calculator 实战](https://blog.csdn.net/2403_88152589/article/details/166142851)
+- [#1 Linux｜从线程到网络｜单例模式｜饿汉与懒汉｜自旋锁｜读写锁｜网络基础](https://blog.csdn.net/2403_88152589/article/details/166016119)
