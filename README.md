@@ -10,10 +10,12 @@ Some column directions
 | --------------------------------------------------- | ------------------------------------------------- | --------------------------------------------|
 | [MySQL](#mysql)                 | [Redis](#redis)            | [Docker](#docker)                             |  
 
-|[前端ts，js](#frontend)|          [Git Ci/CD(#git ci/cd)]         | C++(#c++)                         |
+|[前端ts，js](#frontend)|          [Git Ci/CD](#git ci/cd)]         | [C++](#c++)                         |
+|[Shell](#shell)       |          [Linux网络](linux网络)                             |                                            |
 
 MySQL
 <a id="mysql"></a>
+- [#8 MySQL 视图｜用户管理｜权限设置](https://blog.csdn.net/2403_88152589/article/details/165876821)
 - [#7 MySQL 事务（1）｜ACID｜commit｜rollback｜常见操作](https://blog.csdn.net/2403_88152589/article/details/165632799)
 - [#6 MySQL 索引底层与实操｜Page｜B+ 树｜索引增删查｜全文索引](https://blog.csdn.net/2403_88152589/article/details/165615818)
 - [#5 MySQL 多表查询｜自连接｜子查询｜合并查询｜内外连接](https://blog.csdn.net/2403_88152589/article/details/165492915)
@@ -26,6 +28,7 @@ MySQL
 
 Redis
 <a id="redis"></a>
+- [#1 Redis（1）｜前言｜服务端高并发分布式架构的演进](https://blog.csdn.net/2403_88152589/article/details/166015899)
 
 Docker
 <a id="docker"></a>
@@ -41,3 +44,11 @@ Git CI/CD
 C++
 <a id="c++"></a>
 
+Shell
+<a id="shell"></a>
+-[#1 Shell（1）｜Shell、Python、Lua｜概述｜调用｜语法｜变量](https://blog.csdn.net/2403_88152589/article/details/166142881)
+
+Linux网络
+<a id="linux网络"></a>
+-[#2 Linux｜网络协议｜序列化与反序列化｜TCP Calculator 实战](https://blog.csdn.net/2403_88152589/article/details/166142851)
+-[#1 Linux｜从线程到网络｜单例模式｜饿汉与懒汉｜自旋锁｜读写锁｜网络基础](https://blog.csdn.net/2403_88152589/article/details/166016119)
