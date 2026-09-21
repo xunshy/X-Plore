@@ -11,7 +11,7 @@ Some column directions
 | [MySQL](#mysql)                 | [Redis](#redis)            | [Docker](#docker)                             |  
 
 |[前端ts，js](#frontend)|          [Git Ci/CD](#git ci/cd)]         | [C++](#c++)                         |
-|[Shell](#shell)       |          [Linux网络](linux网络)                             |                                            |
+|[Shell](#shell)       |          [Linux网络](linux网络)                             |             [分布式/去中心化](#分布式)                              |
 
 MySQL
 <a id="mysql"></a>
@@ -52,3 +52,6 @@ Linux网络
 <a id="linux网络"></a>
 - [#2 Linux｜网络协议｜序列化与反序列化｜TCP Calculator 实战](https://blog.csdn.net/2403_88152589/article/details/166142851)
 - [#1 Linux｜从线程到网络｜单例模式｜饿汉与懒汉｜自旋锁｜读写锁｜网络基础](https://blog.csdn.net/2403_88152589/article/details/166016119)
+
+分布式/去中心化
+<a id ="分布式"></a>
